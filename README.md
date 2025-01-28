@@ -11,7 +11,7 @@
 
 ## 要求 📋
 - Python 3.x
-- `wcferry` 库
+- `[wcferry](https://github.com/lich0821/WeChatFerry)` 库
 - WeChat V3.9.10.27
 
 ## 安装 📦
