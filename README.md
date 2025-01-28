@@ -12,7 +12,7 @@
 ## 要求 📋
 - Python 3.x
 - [wcferry](https://github.com/lich0821/WeChatFerry) 库
-- WeChat V3.9.10.27
+- WeChat V3.9.10.27 右侧release栏可下载
 
 ## 安装 📦
 1. 克隆仓库：
